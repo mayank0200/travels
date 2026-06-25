@@ -28,10 +28,10 @@ export const aboutUs = {
     text: "Our mission is to deliver exceptional travel experiences that inspire and connect people. We aim to make travel accessible and enjoyable for everyone by providing personalized services, innovative solutions, and unparalleled customer support. We believe in sustainable tourism and strive to promote responsible travel practices. We work closely with local communities to ensure that our tours benefit the people and places we visit."
   },
   images: [
-    "https://rajasthangauravtravels.com/img/Pushkar-2.jpg",
-    "https://rajasthangauravtravels.com/img/Kumbhalgarh-fort-2.jpg",
-    "https://rajasthangauravtravels.com/img/jaipur-6.jpg",
-    "https://rajasthangauravtravels.com/img/jaipur-3.jpg"
+    "https://picsum.photos/seed/Pushkar2jpg/800/600",
+    "https://picsum.photos/seed/Kumbhalgarhfort2jpg/800/600",
+    "https://picsum.photos/seed/jaipur6jpg/800/600",
+    "https://picsum.photos/seed/jaipur3jpg/800/600"
   ]
 };
 
@@ -82,11 +82,11 @@ export const carRental = {
   ],
   airportInfo: "Jaipur International Airport is located approximately at a distance of about 12 kilometers from the city center and takes about 25 minutes to reach. For Airport pick-up or drop, you can book from a range of Rajasthan Gaurav Travels airport taxis – AC Sedans, SUVs, at a very economical rate.",
   gallery: [
-    "https://rajasthangauravtravels.com/img/car-gallery-item.jpg",
-    "https://rajasthangauravtravels.com/img/bus-gallery-item.jpg",
-    "https://rajasthangauravtravels.com/img/innova.png",
-    "https://rajasthangauravtravels.com/img/tempo.png",
-    "https://rajasthangauravtravels.com/img/ertiga.png"
+    "https://picsum.photos/seed/cargalleryitemjpg/800/600",
+    "https://picsum.photos/seed/busgalleryitemjpg/800/600",
+    "https://picsum.photos/seed/innovapng/800/600",
+    "https://picsum.photos/seed/tempopng/800/600",
+    "https://picsum.photos/seed/ertigapng/800/600"
   ]
 };
 
@@ -105,7 +105,7 @@ export const rajDarshan = {
   activities: [
     {
       title: "1. Travel Back in Time At Rajasthan's Museums",
-      image: "https://rajasthangauravtravels.com/img/albert-hall-museum.jpg",
+      image: "https://picsum.photos/seed/alberthallmuseumjpg/800/600",
       places: [
         { name: "Albert Hall Museum, Jaipur", desc: "This museum is the epitome of Indo-Saracenic architecture, that houses royal weaponry, miniature paintings, dioramas and musical instruments." },
         { name: "Government Museum, Ajmer", desc: "A fine collection of paintings, miniatures, weapons, and 8th century stone sculptures within the walls of Akbar's former palace." },
@@ -116,7 +116,7 @@ export const rajDarshan = {
     },
     {
       title: "2. Switch to Explorer Mode at the Forts of Rajasthan",
-      image: "https://rajasthangauravtravels.com/img/amber-fort-1.jpg",
+      image: "https://picsum.photos/seed/amberfort1jpg/800/600",
       places: [
         { name: "Amber Fort, Jaipur", desc: "Perched on a 180m hill adding to its imposing nature with brilliant panoramic views." },
         { name: "Chittor Fort, Chittorgarh", desc: "The Kirti Stambh and Vijay Stambh offer brilliant panoramic views of surrounding Chittor." },
@@ -127,7 +127,7 @@ export const rajDarshan = {
     },
     {
       title: "3. Shop Till You Drop at the Kaleidoscopic Bazaars",
-      image: "https://rajasthangauravtravels.com/img/bapu-bazar.jpg",
+      image: "https://picsum.photos/seed/bapubazarjpg/800/600",
       places: [
         { name: "Hathi Pol & Bada Bazaar, Udaipur", desc: "Pichwai and Phad paintings, wooden handicrafts, Bathik and Bandhani sarees, and camel bone jewellery." },
         { name: "Bapu & Johari Bazaar, Jaipur", desc: "Rajasthani textiles, perfumes, pashmina shawls, ethnic footwear, and hand-made jewellery." }
@@ -142,8 +142,8 @@ export const destinations = [
     id: "jaipur",
     name: "Jaipur",
     title: "Journey Through Jaipur",
-    image: "https://rajasthangauravtravels.com/img/jaipurhawamahal.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Landing-Page-header-jaipur.jpg",
+    image: "https://picsum.photos/seed/jaipurhawamahaljpg/800/600",
+    bannerImage: "https://picsum.photos/seed/LandingPageheaderjaipurjpg/800/600",
     category: "Rajasthan Tours",
     description: "When you think of Jaipur, India, what springs to mind? Perhaps a city where history breathes through every archway, and the streets are bathed in the warm glow of pink, exuding a timeless elegance. The tales of kings and maharajas seem to whisper through its regal mansions and grand palaces.",
     longDescription: "Welcome to Jaipur, the gem of Rajasthan's place where time stands still to tell stories of royalty and tradition. Nestled in the heart of India's royal land, Jaipur embodies the essence of Rajasthan's magnificent heritage. With its iconic pink-hued buildings, a symbol of hospitality and warmth, Jaipur invites you to embark on an unforgettable journey.",
@@ -153,14 +153,14 @@ export const destinations = [
       { name: "Jal Mahal", desc: "A stunning marvel nestled amidst the serene waters of Man Sagar Lake. Only one floor visible above the waterline, creating an enchanting sight." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/jaipur-1.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-2.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-3.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-4.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-5.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-6.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-7.jpg",
-      "https://rajasthangauravtravels.com/img/jaipur-8.jpg"
+      "https://picsum.photos/seed/jaipur1jpg/800/600",
+      "https://picsum.photos/seed/jaipur2jpg/800/600",
+      "https://picsum.photos/seed/jaipur3jpg/800/600",
+      "https://picsum.photos/seed/jaipur4jpg/800/600",
+      "https://picsum.photos/seed/jaipur5jpg/800/600",
+      "https://picsum.photos/seed/jaipur6jpg/800/600",
+      "https://picsum.photos/seed/jaipur7jpg/800/600",
+      "https://picsum.photos/seed/jaipur8jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -168,8 +168,8 @@ export const destinations = [
     id: "jodhpur",
     name: "Jodhpur",
     title: "Discover the Magic of the Blue City",
-    image: "https://rajasthangauravtravels.com/img/jodhpurmehrangarh.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Jodhpur-landing-page-Header.jpg",
+    image: "https://picsum.photos/seed/jodhpurmehrangarhjpg/800/600",
+    bannerImage: "https://picsum.photos/seed/JodhpurlandingpageHeaderjpg/800/600",
     category: "Rajasthan Tours",
     description: "As the first light of day gently touches Surya Nagri (Sun City), Jodhpur comes to life, unveiling its wonders! Rajasthan's second-largest city is a captivating blend of history and modernity.",
     longDescription: "Known as Jodhpur, the Blue City of India, it offers a harmonious mix of age-old traditions and contemporary charm, with vibrant alleys washed in the signature shades of Rangeelo Rajasthan. From the mesmerizing cobalt-blue buildings to its deep-rooted connection with the Marwar kingdom, Jodhpur is a treasure trove of heritage, stunning architecture, and timeless Indian beauty.",
@@ -179,9 +179,9 @@ export const destinations = [
       { name: "Umaid Bhawan Palace", desc: "One of the largest private residences in the world, a magnificent blend of art deco and classical architecture." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/jodhpur-1.jpg",
-      "https://rajasthangauravtravels.com/img/jodhpur-2.jpg",
-      "https://rajasthangauravtravels.com/img/jodhpur-3.jpg"
+      "https://picsum.photos/seed/jodhpur1jpg/800/600",
+      "https://picsum.photos/seed/jodhpur2jpg/800/600",
+      "https://picsum.photos/seed/jodhpur3jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -189,8 +189,8 @@ export const destinations = [
     id: "udaipur",
     name: "Udaipur",
     title: "Royal Udaipur Awaits",
-    image: "https://rajasthangauravtravels.com/img/udaipurlake.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Udaipur-Landing-page-header.jpg",
+    image: "https://picsum.photos/seed/udaipurlakejpg/800/600",
+    bannerImage: "https://picsum.photos/seed/UdaipurLandingpageheaderjpg/800/600",
     category: "Rajasthan Tours",
     description: "Udaipur, often called the 'Venice of the East,' earns its title due to its stunning lakes that mirror the charm of Venice. Nestled in the heart of the Aravalli Hills, Udaipur captivates visitors with its blend of history, culture, and natural beauty.",
     longDescription: "Known as the 'City of Lakes,' Udaipur offers a mesmerizing mix of serene waters, magnificent palaces, and a rich cultural heritage that tells the story of royal Rajasthan's golden past. In Udaipur, ancient traditions seamlessly coexist with modern-day charm.",
@@ -202,9 +202,9 @@ export const destinations = [
       { name: "Fateh Sagar Lake", desc: "A stunning artificial lake surrounded by hills and natural beauty." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/Udaipur-City-Palace-1.jpg",
-      "https://rajasthangauravtravels.com/img/Udaipur-City-Palace-2.jpg",
-      "https://rajasthangauravtravels.com/img/Udaipur-City-Palace-3.jpg"
+      "https://picsum.photos/seed/UdaipurCityPalace1jpg/800/600",
+      "https://picsum.photos/seed/UdaipurCityPalace2jpg/800/600",
+      "https://picsum.photos/seed/UdaipurCityPalace3jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -212,8 +212,8 @@ export const destinations = [
     id: "jaisalmer",
     name: "Jaisalmer",
     title: "Golden Desert Adventure",
-    image: "https://rajasthangauravtravels.com/img/jaisalmer1.png",
-    bannerImage: "https://rajasthangauravtravels.com/img/Landing-page-header-Jaisalmer.jpg",
+    image: "https://picsum.photos/seed/jaisalmer1png/800/600",
+    bannerImage: "https://picsum.photos/seed/LandingpageheaderJaisalmerjpg/800/600",
     category: "Rajasthan Tours",
     description: "Nestled in the heart of the majestic Thar Desert, Jaisalmer is a stunning gem of Rajasthan. Dominated by a remarkable, still-inhabited fort, Jaisalmer is a central attraction for visitors.",
     longDescription: "Jaisalmer offers more than just historic forts and vast deserts. Discover its hidden gems, enjoy luxurious experiences, and experience the true spirit of this golden marvel in Rajasthan. Why not explore the desert's secrets on a camel ride?",
@@ -223,10 +223,10 @@ export const destinations = [
       { name: "Patwon Ki Haveli", desc: "A cluster of five grand havelis with exquisite architecture." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/jaisalmer-1.jpg",
-      "https://rajasthangauravtravels.com/img/jaisalmer-2.jpg",
-      "https://rajasthangauravtravels.com/img/jaisalmer-3.jpg",
-      "https://rajasthangauravtravels.com/img/jaisalmer-4.jpg"
+      "https://picsum.photos/seed/jaisalmer1jpg/800/600",
+      "https://picsum.photos/seed/jaisalmer2jpg/800/600",
+      "https://picsum.photos/seed/jaisalmer3jpg/800/600",
+      "https://picsum.photos/seed/jaisalmer4jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -234,8 +234,8 @@ export const destinations = [
     id: "mount-abu",
     name: "Mount Abu",
     title: "Unwind in Mount Abu",
-    image: "https://rajasthangauravtravels.com/img/mountabu.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Landing-page-header-mount-abu.jpg",
+    image: "https://picsum.photos/seed/mountabujpg/800/600",
+    bannerImage: "https://picsum.photos/seed/Landingpageheadermountabujpg/800/600",
     category: "Rajasthan Tours",
     description: "Mount Abu is the only hill station in Rajasthan, nestled in the Aravalli Range. It's a serene retreat with lush green hills, serene lakes, and ancient temples.",
     longDescription: "The history of Mount Abu dates back to ancient times, with its origins found in the Puranas. Referred to as 'Arbudaranya' or 'the forest of Arbhuda' during the Puranic Age, Mount Abu is said to have served as a retreat for Sage Vashistha after his dispute with Sage Vishwamitra. One well-known myth speaks of a serpent named Arbhuda, who saved the life of Nandi, the sacred bull of Lord Shiva. The name 'Mount Abu' is thought to have evolved from Arbhuda.",
@@ -245,9 +245,9 @@ export const destinations = [
       { name: "Guru Shikhar", desc: "The highest peak of the Aravalli Range offering breathtaking panoramic views." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/mount-abu-1.jpg",
-      "https://rajasthangauravtravels.com/img/mount-abu-2.jpg",
-      "https://rajasthangauravtravels.com/img/mount-abu-3.jpg"
+      "https://picsum.photos/seed/mountabu1jpg/800/600",
+      "https://picsum.photos/seed/mountabu2jpg/800/600",
+      "https://picsum.photos/seed/mountabu3jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -255,8 +255,8 @@ export const destinations = [
     id: "pushkar",
     name: "Pushkar",
     title: "Unveil Pushkar's Magic",
-    image: "https://rajasthangauravtravels.com/img/pushkar1.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Landing-Page-header-Pushkar.jpg",
+    image: "https://picsum.photos/seed/pushkar1jpg/800/600",
+    bannerImage: "https://picsum.photos/seed/LandingPageheaderPushkarjpg/800/600",
     category: "Rajasthan Tours",
     description: "Pushkar is one of the oldest cities in India, famous for its Brahma Temple and the sacred Pushkar Lake. It's a spiritual and cultural hub in Rajasthan.",
     longDescription: "Situated in the heart of Rajasthan, Pushkar stands as a hidden gem where the spiritual and the earthly beautifully intertwine. Every corner of this town reveals layers of history and legend. According to ancient lore, the sacred Pushkar Lake was formed where a lotus flower, dropped by the Hindu god Brahma, touched the ground. From the divine aura of the Brahma Temple to the vibrant spectacle of the annual Camel Fair, Pushkar is a place where spirituality, tradition, and adventure come together.",
@@ -266,10 +266,10 @@ export const destinations = [
       { name: "Camel Fair", desc: "An annual multi-day cultural fête and livestock fair." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/Pushkar-1.jpg",
-      "https://rajasthangauravtravels.com/img/Pushkar-2.jpg",
-      "https://rajasthangauravtravels.com/img/Pushkar-3.jpg",
-      "https://rajasthangauravtravels.com/img/Pushkar-4.jpg"
+      "https://picsum.photos/seed/Pushkar1jpg/800/600",
+      "https://picsum.photos/seed/Pushkar2jpg/800/600",
+      "https://picsum.photos/seed/Pushkar3jpg/800/600",
+      "https://picsum.photos/seed/Pushkar4jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -277,8 +277,8 @@ export const destinations = [
     id: "ranthambore",
     name: "Ranthambore",
     title: "Wildlife in Ranthambore",
-    image: "https://rajasthangauravtravels.com/img/ranthambore.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Landing-page-header-ranthambhore.jpg",
+    image: "https://picsum.photos/seed/ranthamborejpg/800/600",
+    bannerImage: "https://picsum.photos/seed/Landingpageheaderranthambhorejpg/800/600",
     category: "Rajasthan Tours",
     description: "Ranthambore National Park is one of the largest national parks in Northern India, famous for its Bengal tigers and diverse wildlife.",
     longDescription: "Ranthambore Fort sits high within the national park, offering stunning panoramic views of the surrounding area. Though located inside the park, the fort can be accessed without purchasing an entry ticket to the reserve. Its elevated position provides a perfect vantage point for enjoying both the historic architecture and the natural beauty of the region. Embark on a thrilling jungle safari to spot Bengal tigers, leopards, and diverse flora and fauna.",
@@ -288,10 +288,10 @@ export const destinations = [
       { name: "Trinetra Ganesh Temple", desc: "World's only temple with a three-eyed Ganesh idol." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/ranthambore-1.jpg",
-      "https://rajasthangauravtravels.com/img/ranthambore-2.jpg",
-      "https://rajasthangauravtravels.com/img/ranthambore-3.jpg",
-      "https://rajasthangauravtravels.com/img/ranthambore-4.jpg"
+      "https://picsum.photos/seed/ranthambore1jpg/800/600",
+      "https://picsum.photos/seed/ranthambore2jpg/800/600",
+      "https://picsum.photos/seed/ranthambore3jpg/800/600",
+      "https://picsum.photos/seed/ranthambore4jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -299,8 +299,8 @@ export const destinations = [
     id: "kumbhalgarh",
     name: "Kumbhalgarh",
     title: "Kumbhalgarh Fort Tour",
-    image: "https://rajasthangauravtravels.com/img/Kumbhalgarh-fort-2.jpg",
-    bannerImage: "https://rajasthangauravtravels.com/img/Landing-Page-header-kumbhalgarh.jpg",
+    image: "https://picsum.photos/seed/Kumbhalgarhfort2jpg/800/600",
+    bannerImage: "https://picsum.photos/seed/LandingPageheaderkumbhalgarhjpg/800/600",
     category: "Rajasthan Tours",
     description: "Kumbhalgarh Fort is a Mewar fortress with the second longest wall in the world. The birthplace of Maharana Pratap, it offers breathtaking views.",
     longDescription: "Kumbhalgarh, situated in the Rajsamand district of Rajasthan, India, stands as a prominent Mewar fortress on the Aravalli Hills' western range. Recognized as a World Heritage site under the Hill Forts of Rajasthan, this fort was constructed in the 15th century by Rana Kumbha and is renowned as the birthplace of Maharana Pratap. Its extensive defensive walls stretch over 36 kilometers, making it the second longest continuous wall globally, after the Great Wall of China. Within its walls are more than 360 temples, including the highly revered Shiva Temple.",
@@ -310,10 +310,10 @@ export const destinations = [
       { name: "Neelkanth Mahadeo Temple", desc: "A magnificent Shiva temple featuring a huge stone lingam." }
     ],
     gallery: [
-      "https://rajasthangauravtravels.com/img/Kumbhalgarh-fort-1.jpg",
-      "https://rajasthangauravtravels.com/img/Kumbhalgarh-fort-2.jpg",
-      "https://rajasthangauravtravels.com/img/kumbhalgarh-fort-3.jpg",
-      "https://rajasthangauravtravels.com/img/Kumbhalgarh-fort-4.jpg"
+      "https://picsum.photos/seed/Kumbhalgarhfort1jpg/800/600",
+      "https://picsum.photos/seed/Kumbhalgarhfort2jpg/800/600",
+      "https://picsum.photos/seed/kumbhalgarhfort3jpg/800/600",
+      "https://picsum.photos/seed/Kumbhalgarhfort4jpg/800/600"
     ],
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
   },
@@ -321,7 +321,7 @@ export const destinations = [
     id: "chittorgarh",
     name: "Chittorgarh",
     title: "Historic Chittorgarh Fort",
-    image: "https://rajasthangauravtravels.com/img/chittorgarh.jpg",
+    image: "https://picsum.photos/seed/chittorgarhjpg/800/600",
     category: "Rajasthan Tours",
     description: "Chittorgarh Fort is the largest fort in India, a UNESCO World Heritage Site with rich Rajput history, Tower of Victory, and Tower of Fame.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -330,7 +330,7 @@ export const destinations = [
     id: "bikaner",
     name: "Bikaner",
     title: "Discover Bikaner",
-    image: "https://rajasthangauravtravels.com/img/bikaner.png",
+    image: "https://picsum.photos/seed/bikanerpng/800/600",
     category: "Rajasthan Tours",
     description: "Bikaner, the camel country, is known for its magnificent Junagarh Fort, camel festivals, and delicious Rajasthani cuisine.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -341,7 +341,7 @@ export const destinations = [
     id: "udaipur-honeymoon",
     name: "Udaipur Honeymoon",
     title: "Udaipur: Romance by the Lakes",
-    image: "https://rajasthangauravtravels.com/img/udaipur-honeymoon.jpg",
+    image: "https://picsum.photos/seed/udaipurhoneymoonjpg/800/600",
     category: "Honeymoon Tours",
     description: "Experience the ultimate romantic getaway in the City of Lakes. Enjoy boat rides, palace visits, and sunset views.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -350,7 +350,7 @@ export const destinations = [
     id: "jaisalmer-honeymoon",
     name: "Jaisalmer Honeymoon",
     title: "Jaisalmer: A Golden Desert Adventure",
-    image: "https://rajasthangauravtravels.com/img/jaisalmer-honeymoon.jpg",
+    image: "https://picsum.photos/seed/jaisalmerhoneymoonjpg/800/600",
     category: "Honeymoon Tours",
     description: "A romantic desert adventure under the starlit sky of Jaisalmer. Camp in luxury tents on the Sam Sand Dunes.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -359,7 +359,7 @@ export const destinations = [
     id: "mount-abu-honeymoon",
     name: "Mount Abu Honeymoon",
     title: "Mount Abu: Serenity in the Scenic Hills",
-    image: "https://rajasthangauravtravels.com/img/Mount%20Abu-honeymoon.jpg",
+    image: "https://picsum.photos/seed/Mount20Abuhoneymoonjpg/800/600",
     category: "Honeymoon Tours",
     description: "Escape to the only hill station of Rajasthan for a serene honeymoon surrounded by lush greenery and tranquil lakes.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -368,7 +368,7 @@ export const destinations = [
     id: "pushkar-honeymoon",
     name: "Pushkar Honeymoon",
     title: "Pushkar: Sacred Vibes, Timeless Charm",
-    image: "https://rajasthangauravtravels.com/img/pushkar-honeymoon.jpg",
+    image: "https://picsum.photos/seed/pushkarhoneymoonjpg/800/600",
     category: "Honeymoon Tours",
     description: "A spiritual and romantic experience in the holy city of Pushkar with its sacred lake and vibrant markets.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -379,7 +379,7 @@ export const destinations = [
     id: "khatushyam-ji",
     name: "Khatushyam Ji",
     title: "The Divine Abode of Lord Shyam",
-    image: "https://rajasthangauravtravels.com/img/khatushyam-ji.jpg",
+    image: "https://picsum.photos/seed/khatushyamjijpg/800/600",
     category: "Spiritual Tours",
     description: "Visit the sacred temple of Khatushyam Ji, one of the most revered pilgrimage destinations in Rajasthan.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -388,7 +388,7 @@ export const destinations = [
     id: "salasar-balaji",
     name: "Salasar Balaji",
     title: "A Journey to the Mighty Protector",
-    image: "https://rajasthangauravtravels.com/img/Home-page-spiritual-tour-Salasar-Balaji.jpg",
+    image: "https://picsum.photos/seed/HomepagespiritualtourSalasarBalajijpg/800/600",
     category: "Spiritual Tours",
     description: "Experience divine blessings at the famous Salasar Hanuman Ji temple, known for its miraculous powers.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -397,7 +397,7 @@ export const destinations = [
     id: "jeen-mata",
     name: "Jeen Mata",
     title: "Discover the Power of the Eternal Goddess",
-    image: "https://rajasthangauravtravels.com/img/jeen-mata.jpg",
+    image: "https://picsum.photos/seed/jeenmatajpg/800/600",
     category: "Spiritual Tours",
     description: "Jeen Mata Temple is an ancient temple dedicated to the Goddess Jeen Mata, a powerful spiritual destination.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -406,7 +406,7 @@ export const destinations = [
     id: "sawaliya-seth",
     name: "Sawaliya Seth Ji",
     title: "Experience the Grace of the Dark Lord",
-    image: "https://rajasthangauravtravels.com/img/sanwaliya-seth.jpg",
+    image: "https://picsum.photos/seed/sanwaliyasethjpg/800/600",
     category: "Spiritual Tours",
     description: "Visit the magnificent temple of Sawaliya Seth Ji, known for its beautiful architecture and spiritual significance.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -415,7 +415,7 @@ export const destinations = [
     id: "nathdwara",
     name: "Nathdwara",
     title: "A Sacred Pilgrimage to Shrinath Ji",
-    image: "https://rajasthangauravtravels.com/img/nathdwara.jpg",
+    image: "https://picsum.photos/seed/nathdwarajpg/800/600",
     category: "Spiritual Tours",
     description: "Nathdwara is home to the famous Shrinath Ji Temple, one of the most important Vaishnavite temples in India.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -424,7 +424,7 @@ export const destinations = [
     id: "trinetra-ganesh",
     name: "Trinetra Ganesh Ji",
     title: "Blessings of the Three-Eyed Lord",
-    image: "https://rajasthangauravtravels.com/img/Home-page-spiritual-tour-thubnail-Trinetra-ganesh-ji.jpg",
+    image: "https://picsum.photos/seed/HomepagespiritualtourthubnailTrinetraganeshjijpg/800/600",
     category: "Spiritual Tours",
     description: "Trinetra Ganesh Ji Temple in Ranthambore Fort is the world's only temple with a three-eyed Ganesh idol.",
     features: ["Hotels", "Meals", "Sightseeing", "Transfer"]
@@ -438,35 +438,35 @@ export const offers = [
     title: "Grab UPTO 25% OFF* on Rajasthan Tours",
     description: "Book now to save more on your Rajasthan travels. Valid on all destinations.",
     code: "RAJTRIP25",
-    image: "https://rajasthangauravtravels.com/img/jaipurhawamahal.jpg"
+    image: "https://picsum.photos/seed/jaipurhawamahaljpg/800/600"
   },
   {
     id: 2,
     title: "Special Honeymoon Packages starting @ ₹9,999",
     description: "Make your honeymoon trip memorable in Rajasthan's most romantic destinations.",
     code: "HONEYMOON10",
-    image: "https://rajasthangauravtravels.com/img/udaipur-honeymoon.jpg"
+    image: "https://picsum.photos/seed/udaipurhoneymoonjpg/800/600"
   },
   {
     id: 3,
     title: "Book Spiritual Tours with 15% OFF",
     description: "Exclusive discounts on Khatushyam Ji, Salasar Balaji and Nathdwara trips.",
     code: "SPIRITUAL15",
-    image: "https://rajasthangauravtravels.com/img/khatushyam-ji.jpg"
+    image: "https://picsum.photos/seed/khatushyamjijpg/800/600"
   },
   {
     id: 4,
     title: "Desert Safari Special – Flat ₹500 OFF",
     description: "Experience the thrill of Jaisalmer's golden sand dunes with a special discount.",
     code: "DESERT500",
-    image: "https://rajasthangauravtravels.com/img/jaisalmer1.png"
+    image: "https://picsum.photos/seed/jaisalmer1png/800/600"
   },
   {
     id: 5,
     title: "Car Rental Deals – Starting at ₹999/day",
     description: "Luxury car rentals in Jaipur with 24/7 support. AC Sedans, SUVs available.",
     code: "CARRENTAL",
-    image: "https://rajasthangauravtravels.com/img/innova.png"
+    image: "https://picsum.photos/seed/innovapng/800/600"
   }
 ];
 
@@ -480,12 +480,12 @@ export const rajasthanCities = [
 
 // ---- HOMEPAGE IMAGES ----
 export const homepageImages = {
-  banner: "https://rajasthangauravtravels.com/img/newbanner.png",
-  logo: "https://rajasthangauravtravels.com/img/site-logo-border.png",
+  banner: "https://picsum.photos/seed/newbannerpng/800/600",
+  logo: "https://placehold.co/250x80/FFD700/000000/png?text=Travels+Logo",
   aboutSection: [
-    "https://rajasthangauravtravels.com/img/hawamahal-men.png",
-    "https://rajasthangauravtravels.com/img/raajsthan.jpg",
-    "https://rajasthangauravtravels.com/img/jaipur-hawamahal-new.png",
-    "https://rajasthangauravtravels.com/img/pushkar-new.png"
+    "https://picsum.photos/seed/hawamahalmenpng/800/600",
+    "https://picsum.photos/seed/raajsthanjpg/800/600",
+    "https://picsum.photos/seed/jaipurhawamahalnewpng/800/600",
+    "https://picsum.photos/seed/pushkarnewpng/800/600"
   ]
 };

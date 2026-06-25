@@ -9,7 +9,7 @@ const ContactPage = () => {
 
   return (
     <div className="standalone-page">
-      <div className="page-banner" style={{ backgroundImage: 'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(https://rajasthangauravtravels.com/img/contact-banner.jpg)' }}>
+      <div className="page-banner" style={{ backgroundImage: 'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(https://picsum.photos/seed/contactbannerjpg/800/600' }}>
         <h1 className="page-banner-title">Contact Us</h1>
       </div>
       <ContactSection />

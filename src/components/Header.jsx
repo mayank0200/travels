@@ -66,7 +66,7 @@ const Header = () => {
         <div className="container flex justify-between items-center">
           <div className="logo">
             <Link to="/">
-              <img src="https://rajasthangauravtravels.com/img/site-logo-border.png" alt="Rajasthan Gaurav Travels" />
+              <img src="https://placehold.co/250x80/FFD700/000000/png?text=Travels+Logo" alt="Rajasthan Gaurav Travels" />
             </Link>
           </div>
 

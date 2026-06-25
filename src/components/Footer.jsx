@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container footer-content">
         <div className="footer-col about-col">
           <div className="footer-logo">
-            <img src="https://rajasthangauravtravels.com/img/site-logo-border.png" alt="Logo" style={{filter: 'brightness(0) invert(1)'}}/>
+            <img src="https://placehold.co/250x80/FFD700/000000/png?text=Travels+Logo" alt="Logo" style={{filter: 'brightness(0) invert(1)'}}/>
           </div>
           <p className="footer-desc">
             Explore Rajasthan's wonders with us! Immerse yourself in the rich culture, heritage, and hospitality of the desert state on our curated tours.

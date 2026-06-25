@@ -45,7 +45,7 @@ const SearchResultsPage = () => {
 
   return (
     <div className="standalone-page search-results-page">
-      <div className="page-banner" style={{ backgroundImage: 'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(https://rajasthangauravtravels.com/img/newbanner.png)', height: '250px' }}>
+      <div className="page-banner" style={{ backgroundImage: 'linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(https://picsum.photos/seed/newbannerpng/800/600', height: '250px' }}>
         <div className="text-center">
           <h1 className="page-banner-title">Search Results</h1>
           <p className="text-white mt-2" style={{fontSize: '18px'}}>

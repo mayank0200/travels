@@ -18,9 +18,9 @@ const CategoryPage = () => {
   const items = destinations.filter(d => d.category === categoryName);
 
   const getBannerImage = () => {
-    if (categoryId === 'honeymoon') return 'https://rajasthangauravtravels.com/img/udaipur-honeymoon.jpg';
-    if (categoryId === 'spiritual') return 'https://rajasthangauravtravels.com/img/Home-page-spiritual-tour-Salasar-Balaji.jpg';
-    return 'https://rajasthangauravtravels.com/img/newbanner.png';
+    if (categoryId === 'honeymoon') return 'https://picsum.photos/seed/udaipurhoneymoonjpg/800/600';
+    if (categoryId === 'spiritual') return 'https://picsum.photos/seed/HomepagespiritualtourSalasarBalajijpg/800/600';
+    return 'https://picsum.photos/seed/newbannerpng/800/600';
   };
 
   return (
